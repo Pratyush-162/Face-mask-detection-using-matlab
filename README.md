@@ -1,17 +1,4 @@
 # Face-mask-detection-using-matlab
-Table of Contents
-
-Introduction
-Features
-Requirements
-Installation
-Usage
-Dataset
-Model Architecture
-Results
-Contributing
-License
-Introduction
 
 This project is a Face Mask Detection System implemented in MATLAB. It uses a Convolutional Neural Network (CNN) to classify images into two categories: with_mask and without_mask. The project includes:
 
@@ -44,7 +31,7 @@ Installation
 Clone this repository:
 bash
 Copy
-git clone https://github.com/your-username/face-mask-detection-matlab.git
+git clone https://github.com/Pratyush-162/face-mask-detection-matlab.git
 Open MATLAB and navigate to the project folder.
 Usage
 
@@ -67,9 +54,7 @@ Dataset
 
 The dataset used in this project consists of images of people wearing masks and not wearing masks. You can use the following datasets:
 
-Masked Face Dataset
-Kaggle Face Mask Detection Dataset
-Place the images in the following structure:
+dataset link- (https://drive.google.com/drive/folders/1Ih3orh42vGmIwCXQNB0b5wsLkICCiZ_l?usp=sharing)
 
 Copy
 dataset/
@@ -85,17 +70,10 @@ Model Architecture
 
 The project uses a simple CNN architecture for classification:
 
-plaintext
-Copy
-Input Layer (128x128x3) ->
-Conv2D (16 filters) -> BatchNorm -> ReLU -> MaxPooling ->
-Conv2D (32 filters) -> BatchNorm -> ReLU -> MaxPooling ->
-Fully Connected Layer (2 classes) -> Softmax -> Classification Layer
-You can modify the architecture or use transfer learning with pre-trained models like ResNet or MobileNet for better performance.
 
 Results
 
-Validation Accuracy: 95% (example)
+Validation Accuracy: 99.94%
 Sample Predictions:
 Predictions
 Contributing
@@ -107,25 +85,10 @@ Create a new branch (git checkout -b feature/YourFeature).
 Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/YourFeature).
 Open a pull request.
-License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgments
-
-Thanks to the creators of the datasets used in this project.
-Special thanks to MATLAB for providing excellent tools for deep learning and image processing.
-Contact
-
-For questions or feedback, feel free to reach out:
 
 Your Name
-Email: your.email@example.com
-GitHub: your-username
-Screenshots
+Email: pratyprat27@gmail.com
+GitHub: Pratyush-162
 
-Training Progress:
-Training Progress
-Real-Time Detection:
-Real-Time Detection
-This README provides a comprehensive overview of your project. Replace placeholder text (e.g., screenshots, accuracy values) with actual content from your implementation. Let me know if you need further assistance!
+
