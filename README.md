@@ -39,7 +39,8 @@ Step 1: Prepare the Dataset
 
 Organize your dataset into two folders: with_mask and without_mask.
 Place the dataset in the dataset/ folder.<br/>
-Step 2: Run the Project
+
+<br/>Step 2: Run the Project
 
 Open main.m in MATLAB and run the script.
 The script will:
@@ -47,6 +48,7 @@ Load and preprocess the data.
 Train the CNN model.
 Evaluate the model on the validation set.
 (Optional) Run real-time detection using a webcam.<br/>
+
 Step 3: Real-Time Detection<br/>
 
 Run realTimeDetection.m to test the model in real-time using your webcam.<br/>
