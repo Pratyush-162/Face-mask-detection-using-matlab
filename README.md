@@ -78,7 +78,7 @@ Push to the branch (git push origin feature/YourFeature).<br/>
 Open a pull request.
 
 
-Your Name
+
 Email: pratyprat27@gmail.com<br/>
 GitHub: Pratyush-162
 
