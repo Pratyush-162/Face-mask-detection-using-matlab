@@ -56,17 +56,7 @@ The dataset used in this project consists of images of people wearing masks and 
 
 dataset link- (https://drive.google.com/drive/folders/1Ih3orh42vGmIwCXQNB0b5wsLkICCiZ_l?usp=sharing)
 
-Copy
-dataset/
-├── with_mask/
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   └── ...
-└── without_mask/
-    ├── image1.jpg
-    ├── image2.jpg
-    └── ...
-Model Architecture
+
 
 The project uses a simple CNN architecture for classification:
 
