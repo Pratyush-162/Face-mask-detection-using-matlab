@@ -33,12 +33,12 @@ bash
 Copy
 git clone https://github.com/Pratyush-162/face-mask-detection-matlab.git
 Open MATLAB and navigate to the project folder.
-Usage
+Usage<br/>
 
 Step 1: Prepare the Dataset
 
 Organize your dataset into two folders: with_mask and without_mask.
-Place the dataset in the dataset/ folder.
+Place the dataset in the dataset/ folder.<br/>
 Step 2: Run the Project
 
 Open main.m in MATLAB and run the script.
@@ -46,13 +46,13 @@ The script will:
 Load and preprocess the data.
 Train the CNN model.
 Evaluate the model on the validation set.
-(Optional) Run real-time detection using a webcam.
-Step 3: Real-Time Detection
+(Optional) Run real-time detection using a webcam.<br/>
+Step 3: Real-Time Detection<br/>
 
-Run realTimeDetection.m to test the model in real-time using your webcam.
+Run realTimeDetection.m to test the model in real-time using your webcam.<br/>
 Dataset
 
-The dataset used in this project consists of images of people wearing masks and not wearing masks. You can use the following datasets:
+The dataset used in this project consists of images of people wearing masks and not wearing masks. You can use the following datasets:<br/>
 
 dataset link- (https://drive.google.com/drive/folders/1Ih3orh42vGmIwCXQNB0b5wsLkICCiZ_l?usp=sharing)
 
@@ -63,22 +63,21 @@ The project uses a simple CNN architecture for classification:
 
 Results
 
-Validation Accuracy: 99.94%
-Sample Predictions:
-Predictions
-Contributing
+Validation Accuracy: 99.94%<br/>
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
 Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
+Create a new branch (git checkout -b feature/YourFeature).<br/>
+
+Commit your changes (git commit -m 'Add some feature').<br/>
+
+Push to the branch (git push origin feature/YourFeature).<br/>
 Open a pull request.
 
 
 Your Name
-Email: pratyprat27@gmail.com
+Email: pratyprat27@gmail.com<br/>
 GitHub: Pratyush-162
 
 
